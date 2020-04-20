@@ -1,0 +1,33 @@
+body{
+    background: #bcd;
+}
+header{
+    background: #579;
+}
+.brand{
+    color: #222;
+}
+h2{
+    background: #eee;
+}
+article{
+    background: #fff;
+}
+nav{
+    background: #889;
+}
+nav div{
+    background: #99a;
+}
+summary{
+    background: #fcc;
+}
+details{
+    background: #ccc;
+}
+footer{
+    background: rgb(19, 19, 31);
+}
+person a, person a::after{
+    color: #fff;
+}
